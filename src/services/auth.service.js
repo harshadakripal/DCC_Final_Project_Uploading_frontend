@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://18.118.208.14:8080/api/v1/";
+const API_URL = "http://127.0.0.1:8080/api/v1/";
 
 let axiosConfig = {
   headers: {
